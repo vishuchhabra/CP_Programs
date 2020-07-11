@@ -1,0 +1,6 @@
+#stop executable files
+
+*.exe
+
+#stop object fies
+*.o 
